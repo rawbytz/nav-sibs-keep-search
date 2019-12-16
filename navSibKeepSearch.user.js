@@ -1,13 +1,13 @@
 // ==UserScript==
 // @name         WorkFlowy Navigate Siblings Keep Search
 // @namespace    https://rawbytz.wordpress.com
-// @version      1.8
+// @version      1.9
 // @description  Use PgUp & PgDn keys to navigate siblings keeping search criteria (like the Alt+Shft+0/9 shortcuts)
 // @author       rawbytz
 // @match        https://workflowy.com/*
 // @match        https://beta.workflowy.com/*
-// @updateUrl    https://gist.github.com/rawbytz/083aeec5b916497444b2d13b35cc60d2/raw/WorkFlowyNavSibsKeepSearch.user.js
-// @downloadUrl  https://gist.github.com/rawbytz/083aeec5b916497444b2d13b35cc60d2/raw/WorkFlowyNavSibsKeepSearch.user.js
+// @updateUrl    https://github.com/rawbytz/nav-sibs-keep-search/raw/master/navSibKeepSearch.user.js
+// @downloadUrl  https://github.com/rawbytz/nav-sibs-keep-search/raw/master/navSibKeepSearch.user.js
 // @grant        none
 // @run-at       document-end
 
