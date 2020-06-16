@@ -5,7 +5,7 @@
 // @description  Use PgUp & PgDn keys to navigate siblings keeping search criteria (like the Alt+Shft+0/9 shortcuts)
 // @author       rawbytz
 // @match        https://workflowy.com/*
-// @match        https://beta.workflowy.com/*
+// @match        https://*.workflowy.com/*
 // @updateUrl    https://github.com/rawbytz/nav-sibs-keep-search/raw/master/navSibKeepSearch.user.js
 // @downloadUrl  https://github.com/rawbytz/nav-sibs-keep-search/raw/master/navSibKeepSearch.user.js
 // @grant        none
