@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         WorkFlowy Navigate Siblings Keep Search
 // @namespace    https://rawbytz.wordpress.com
-// @version      1.9
+// @version      2.0
 // @description  Use PgUp & PgDn keys to navigate siblings keeping search criteria (like the Alt+Shft+0/9 shortcuts)
 // @author       rawbytz
 // @match        https://workflowy.com/*
